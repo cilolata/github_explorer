@@ -1,3 +1,3 @@
 # github_explorer
 
-Primeiro da trilha ReactJs do curso Ignite - RocketSeat
+Primeiro projeto da trilha ReactJs do curso Ignite - RocketSeat
